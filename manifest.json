@@ -1,7 +1,7 @@
 {
   "name": "JaroslavProject",
   "short_name": "JaroslavProject",
-  "start_url": "./",
+  "start_url": "./BlazorProject/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
