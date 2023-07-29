@@ -21,7 +21,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-c+085LKL2dgsnyiJEqHabgrqzjBzFfPHwHGGzBxx6uo=",
+      "hash": "sha256-h8KLM1Ypavb02B1br0Fb3F+dU2h55v2oylKj0MMXstE=",
       "url": "index.html"
     },
     {
@@ -213,5 +213,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "rJMhQMOP"
+  "version": "Iuq7Kz7A"
 };
