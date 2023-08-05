@@ -1,10 +1,18 @@
 [
   {
     "Src": "https://www.w3schools.com/html/pic_trulli.jpg",
-    "Href": "/BlazorProject/store/1"
+    "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
   },
   {
     "Src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cuesta_del_obispo_01.jpg",
-    "Href": "/BlazorProject/store/2"
+    "Href": "https://pl.wikipedia.org/wiki/Krajobraz"
+  },
+  {
+    "Src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/1920px-Flag_of_Poland.svg.png",
+    "Href": "https://en.wikipedia.org/wiki/Poland"
+  },
+  {
+    "Src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Red_phase%2C_Nerodia_clarkii_compressicauda.jpg",
+    "Href": "https://en.wikipedia.org/wiki/Nerodia_clarkii"
   }
 ]
