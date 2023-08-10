@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "JaroslavProject.dll": "sha256-ZmLQKu\/j0fPKlVJLoSTgimMqtKbwD5g49r+32OUKD5g=",
+      "JaroslavProject.dll": "sha256-TLYqgrDUYhp0icokUYJfbY0X5R6rYnMlHM0RgF0PAuE=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Bjg6uydEhUM2Febvo0VemVvyM1XfJmCSenj+oA\/VbG0=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-wcPyGU\/T7lzlTPNy+M4AeOL1yYc7qTSAkQwoYJPJdO0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-4A8TfFsUXNvWfh5sQDlxMqPfHLUKMRq9Vfdez8Bc3bM=",
@@ -36,7 +36,7 @@
       "System.ComponentModel.dll": "sha256-0VKeeJIKsXTvb1OzQacTDmqeaJnc3tA7xfJMWsRoghE=",
       "System.ComponentModel.Primitives.dll": "sha256-yNiDJkxtbPu4JffWFhSIt8CFY2HgEQJStKpdr6a5\/wQ=",
       "System.ComponentModel.TypeConverter.dll": "sha256-lFixPG2AgSGGlgIW\/WQ+vfZ3bTEHYt9I2Snr8mIejeA=",
-      "System.Console.dll": "sha256-7yt+\/FPRQsnF6mB47I2+1uasZzZhCd4F7dD+XSd\/UEI=",
+      "System.Console.dll": "sha256-Um+WOHeXSpRZm8shDkDJFBZvXwixEwK37npSA9BX0mA=",
       "System.Data.Common.dll": "sha256-jDyWBnzKm4Qp\/vWzVyvAz4tTA+nkz0bBIvI6H4hQU8I=",
       "System.Diagnostics.TraceSource.dll": "sha256-10sWBMPXY6qvNcZC34iNtojn6pFxcVHnLtvDsMaJq5Y=",
       "System.dll": "sha256-vjZqvG\/RsRoxqfMsGr8fUYGm1eNLleWvkorGBcJV5k8=",
