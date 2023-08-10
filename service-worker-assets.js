@@ -25,7 +25,7 @@
       "url": "Data\/pagination-2.json"
     },
     {
-      "hash": "sha256-BTlvj4bOPHSDnBNS8EFmsjy3FUMbe8cNhr5afbzUDvI=",
+      "hash": "sha256-T7Iy5qWLa0tDLIpU0lOzezCJyucUe9v1Vqoe\/XTG38Q=",
       "url": "Data\/tabs.json"
     },
     {
@@ -37,7 +37,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-8GUB9bSJlfjIWNBXlUSXvqPYiKlE0yuqcO\/SEtJz7Wc=",
+      "hash": "sha256-osXJdizIhkM4AlDcrpsihJwTHc25C8HXsCVfyF+1N8w=",
       "url": "index.html"
     },
     {
@@ -77,11 +77,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-QI5ItSq4c+Rw23lo7\/unR0VHM6jOxAGYKntWeYciPUc=",
+      "hash": "sha256-kKjuSn9reoNKvQtLfHifdRrfvudd1glC94\/t2j9kz2I=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-yVhWLsevTM25QIEjbBcdwbkRv+WrfVvKShbNDTJgX6Q=",
+      "hash": "sha256-2h5hMy6YtgRsEHVFE2saNZTaVYA4vqqD3R90lce5CJM=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-SoB+5bPpS1dNUnuhtAbzWgbpaNv2Rc9e6fPOkRFo3bs=",
+      "hash": "sha256-uB486IXa9MqZIxTFEcq5JlJZ5W7HyoFV+Gz2at91KBw=",
       "url": "_framework\/MudBlazor.dll"
     },
     {
@@ -249,7 +249,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-CDIXGJJ\/aeq7DhMYcvdnA3cZrjFNvnM7d1qCRf3glc0=",
+      "hash": "sha256-b5RqiEUpEloLErsd8RELa5RcM4VyGt6qw69ceVoJYLg=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -345,5 +345,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "tV909azD"
+  "version": "0wN7f98V"
 };
