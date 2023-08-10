@@ -1,0 +1,112 @@
+[
+  {
+    "Id": "32c333dd-e15c-48f4-932c-3fdff88bfc60",
+    "Icon": "Material.Outlined.Info",
+    "Name": "Informacja turystyczna",
+    "Href": null,
+    "SubTabs": [
+      {
+        "Id": "0d1994ca-c860-4ece-bb55-01c2a1876e97",
+        "Name": "Proponowane szlaki",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "8127b32a-0815-4a13-94ee-e78bb5fc3779",
+        "Name": "Miejsca noclegowe, agroturystyka, hotele",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      }
+    ]
+  },
+  {
+    "Id": "97f7b758-8e13-4959-b392-b77a52d762b1",
+    "Icon": "Material.Filled.Castle",
+    "Name": "Zabytki",
+    "Href": null,
+    "SubTabs": [
+      {
+        "Id": "e7fac5f6-00d7-4bf8-9d52-d0fca4ce0099",
+        "Name": "Dwory, pałace, zamki, grodziska",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "2646c914-3177-4766-b8d8-6e840361e662",
+        "Name": "Kościoły",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "2b36e99a-9781-4fd9-a88a-db23cd48d8fa",
+        "Name": "Cerkwie",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "27c395b5-037c-4db3-aa45-ee87b5752a64",
+        "Name": "Cerkwiska i kościeliska",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "40f9b571-5b44-4d80-adba-3252f102b03a",
+        "Name": "Kapliczki, krzyże, figury przydrożne",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "aeb4a345-8a01-400a-8b27-abef7ca068f5",
+        "Name": "Karczmy, zajazdy",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "b0fd58de-9cb0-4d0b-9f79-ced8684d6187",
+        "Name": "Inne",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      }
+    ]
+  },
+  {
+    "Id": "56040ff8-13ac-4d6a-8e0c-809b514ddb93",
+    "Icon": "Material.Filled.Forest",
+    "Name": "Przyroda",
+    "Href": null,
+    "SubTabs": [
+      {
+        "Id": "c8575824-714b-4fff-b34f-ed13cad0f21b",
+        "Name": "Parki podworskie",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "841008a8-c7f0-4112-9385-778b92731d64",
+        "Name": "Obszary chronionego krajobrazu i rezerwaty",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "a0182e4e-4053-41f9-bcb3-beb1d725bd58",
+        "Name": "Pomniki przyrody",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      },
+      {
+        "Id": "0920be83-2861-4f87-8d7d-6385922e45c5",
+        "Name": "Flora i fauna regionu",
+        "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
+      }
+    ]
+  },
+  {
+    "Id": "fa2d5c75-9527-4cda-ba02-675ca93a7732",
+    "Icon": "Material.Filled.Timeline",
+    "Name": "Czasy i ludzie",
+    "Href": "https://www.w3schools.com/html/pic_trulli.jpg",
+    "SubTabs": null
+  },
+  {
+    "Id": "74ca926f-7e09-4cdb-ba11-44cbf2acc8f6",
+    "Icon": "Material.Filled.MenuBook",
+    "Name": "Etnografia",
+    "Href": "https://www.w3schools.com/html/pic_trulli.jpg",
+    "SubTabs": null
+  },
+  {
+    "Id": "8f99ce8e-e105-495d-93c0-bd3969670930",
+    "Icon": "Material.Filled.ColorLens",
+    "Name": "Art-galeria",
+    "Href": "https://www.w3schools.com/html/pic_trulli.jpg",
+    "SubTabs": null
+  }
+]
