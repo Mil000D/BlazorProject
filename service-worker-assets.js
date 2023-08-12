@@ -29,7 +29,7 @@
       "url": "Data\/pagination-2.json"
     },
     {
-      "hash": "sha256-RfQRNcY2Ktoc8s0YlzUwOkNrjzi17nrgm922gyShWbE=",
+      "hash": "sha256-AaHFMAFxFLnbpYXuxkXVXHQoxm9SNpR3VSknlgk+ytY=",
       "url": "Data\/tabs.json"
     },
     {
@@ -81,11 +81,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-D+fZg8aIWgq27H+THKcbvnll1E8SXXdZ1wX\/DuhTUYM=",
+      "hash": "sha256-fnNXlNKDi1EBtUPHuGythrfAwBVP4XG0q5hIWzuvGsY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-BVCdczXqtKcujlhxe8O\/EEiRptnb8V\/OT7+ToF4PZA4=",
+      "hash": "sha256-laj1KogIEPsn5VqUY4tHoRHsUQETtvTI14nFeI9G7\/8=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -349,5 +349,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "\/WNiKtNI"
+  "version": "3x5GCUb\/"
 };
