@@ -79,3 +79,7 @@ h1:focus {
     letter-spacing: 5px;
 }
 
+.stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+}

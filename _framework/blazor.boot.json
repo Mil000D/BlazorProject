@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "JaroslavProject.dll": "sha256-5IjTzRMNpkihyXyfTo\/OxGBKyAUvocrxLUzlamOIQtI=",
+      "JaroslavProject.dll": "sha256-Wlaf0icYmLI3s6MOtfsphtVYLxlYdtgsjsPRCnoGvkM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ykGZEwUSjh8G5DpTX+54pT378KXHoiSHzI7j8CE+ztk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-wcPyGU\/T7lzlTPNy+M4AeOL1yYc7qTSAkQwoYJPJdO0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ULy5pd8UaDj4AagZV80\/dFMmASP1E6MfBlFhWrDcL9s=",
@@ -26,7 +26,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-eXvGx2jcjpTPEJoAHBsW\/VuMPbNyyU+AsuhPmkzSSRY=",
       "Microsoft.JSInterop.dll": "sha256-ysQD5pgCtbn1CawQT5qtqfUM3vzWdX0IBSewOopjYik=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-slx0GTjKTzH0al2gU4HdJ4yyw\/+8nhGoRKJASx\/1mE4=",
-      "MudBlazor.dll": "sha256-aSIAdHCcSge9JqAhsVCYBLzad4cuOXcpmeoBR9xriK0=",
+      "MudBlazor.dll": "sha256-KccnU8rE8wT5Bnr\/Uq\/YJSwpxgu\/h8V4LBpmj3j4zgc=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.Collections.Concurrent.dll": "sha256-1US+8CHn43X1rI\/HED9OiEfliGFAW8HzZsG8jWEb7L8=",
       "System.Collections.dll": "sha256-9sXyxyol7OS9kvp7OQ2jueKYZYxdPFs4W3Q9tn08oO4=",
@@ -56,7 +56,7 @@
       "System.Reflection.Emit.ILGeneration.dll": "sha256-tw2IHvt0XOdjBx8bM7XzcbDaDYE3ZQ5q+Md2eaxllTI=",
       "System.Reflection.Emit.Lightweight.dll": "sha256-LbLxjYfKus9++nnZ4cN\/cdNcAUW3SumwJy1QNfTDhhE=",
       "System.Reflection.Primitives.dll": "sha256-CG6ApwcOWEVaRQFUL0yRth9y1yaleEFRPcZFEUimn8g=",
-      "System.Runtime.dll": "sha256-wDE33GIEO30z5sJ6cLLIfwionQFdAQm99lqNhmrenOw=",
+      "System.Runtime.dll": "sha256-P3bIMyEa4wPvpV4g1n1zDNI2bfTl8khvf4oQvaY2zs0=",
       "System.Runtime.InteropServices.dll": "sha256-AgZrZoHviTlHnNrBAs+PnN1APt0yW+Mmd7O2cy4sO7E=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-lZNDJmCZjUCPBkc8yiASvRb9kYy34iHR8ptuOTmGMP0=",
       "System.Runtime.Numerics.dll": "sha256-Nw0SXp5JIvfVudavq7vN8ycp+CJlRgazFgc830Mq3jE=",
