@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "JaroslavProject.dll": "sha256-laj1KogIEPsn5VqUY4tHoRHsUQETtvTI14nFeI9G7\/8=",
+      "JaroslavProject.dll": "sha256-5IjTzRMNpkihyXyfTo\/OxGBKyAUvocrxLUzlamOIQtI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ykGZEwUSjh8G5DpTX+54pT378KXHoiSHzI7j8CE+ztk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-wcPyGU\/T7lzlTPNy+M4AeOL1yYc7qTSAkQwoYJPJdO0=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ULy5pd8UaDj4AagZV80\/dFMmASP1E6MfBlFhWrDcL9s=",
