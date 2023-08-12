@@ -29,7 +29,7 @@
       "url": "Data\/pagination-2.json"
     },
     {
-      "hash": "sha256-P29JVyrTmLOs2XMLazmwb4UdAdKjTEGbAfAt1APzmwk=",
+      "hash": "sha256-RfQRNcY2Ktoc8s0YlzUwOkNrjzi17nrgm922gyShWbE=",
       "url": "Data\/tabs.json"
     },
     {
@@ -349,5 +349,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "nebN7ivA"
+  "version": "\/WNiKtNI"
 };
