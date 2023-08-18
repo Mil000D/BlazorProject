@@ -83,3 +83,43 @@ h1:focus {
     height: 100%;
     overflow: hidden;
 }
+
+@keyframes openYourHeart {
+    from {
+        r: 0;
+    }
+
+    50% {
+        r: 50px;
+    }
+
+    to {
+        r: 0;
+    }
+}
+
+#my-clip circle {
+    animation: openYourHeart 4s infinite;
+}
+
+.zoom-box {
+    transition: transform 0.4s;
+    will-change:contents;
+}
+
+.zoom-box:hover {
+    -ms-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+.mudblazor-carousel .mud-svg-icon:nth-child(1), .mudblazor-pagination .mud-svg-icon:nth-child(1) {
+    fill: var(--mud-palette-primary);
+}
+
+.mud-pagination:not(.mud-pagination-item-selected) .mud-button-label {
+    color: var(--mud-palette-primary);
+}
+.mud-pagination .mud-pagination-item-selected .mud-button-label {
+    color: white;
+}

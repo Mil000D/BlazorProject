@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-ZBVxdWmpuCjgX96MNNw8KyuparT0SeYUGeUyTMoCwXc=",
+      "hash": "sha256-QEzBesFxCu+KN8LMmocBW8h4kmSYZOffnFwxOUacL60=",
       "url": "css\/app.css"
     },
     {
@@ -29,7 +29,7 @@
       "url": "Data\/pagination-2.json"
     },
     {
-      "hash": "sha256-AaHFMAFxFLnbpYXuxkXVXHQoxm9SNpR3VSknlgk+ytY=",
+      "hash": "sha256-PLnh9jMdDpWCa54sJW7ORqA35DIJMMkPQUk6kN+kAGI=",
       "url": "Data\/tabs.json"
     },
     {
@@ -89,11 +89,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-M26P\/FYS5Hhq\/3JnagmLrbyT6IyimuTncKktvarUW1I=",
+      "hash": "sha256-Az2FVx5\/gloxWKauGuqZKPl7RTNnD\/mfF\/RbrpnzuwQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-o7hQOV\/fTfX2fV9qqp37D950ELf18crOGpWnu3+OXBQ=",
+      "hash": "sha256-ejp4OJ6QirJ2idRcK9NJKbQJRWndXu1ZsCQakaW+VWg=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -169,7 +169,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-xVPpF5VU68AqCSEj6wDKgbDF1es20pvHD5daOJFnSRc=",
+      "hash": "sha256-oti6Gz0dKtSFkfCwwNO13VTz\/MdDnypNwue6Q030HcM=",
       "url": "_framework\/MudBlazor.dll"
     },
     {
@@ -365,5 +365,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "q9Mq0j7M"
+  "version": "RC6yuGTm"
 };
