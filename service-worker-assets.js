@@ -13,7 +13,7 @@
       "url": "css\/bootstrap\/bootstrap.min.css.map"
     },
     {
-      "hash": "sha256-wPHMReLuCQWX1oS9elzzbBR6T1b7e5FaDXFoSRcTCqE=",
+      "hash": "sha256-ku5VssrEEU5Iz\/eSbNEeoa9AaydcaCxf+SaoHq+hzhA=",
       "url": "css\/kresy-bliskie-font.ttf"
     },
     {
@@ -29,15 +29,15 @@
       "url": "Data\/counter.json"
     },
     {
-      "hash": "sha256-2EdJ+PBmvjBGELowTsFpFjgvOWULALreN56H7SLjXz0=",
+      "hash": "sha256-CfMz67tao2IO25hVIkOgxg7PZY5x2nwSlXdDbxe6TDs=",
       "url": "Data\/Pages\/page-3349a2cb-ad84-44f8-be1b-1dd4e4c98d7e.json"
     },
     {
-      "hash": "sha256-SBjrzgezjroo3yZWx3ZiM4I1NtYC+72e6+gDViXTTME=",
+      "hash": "sha256-KRxckf85+Qqp6hcsSK02ImidULalZ+BEMmpP4QTIzrk=",
       "url": "Data\/pagination-1.json"
     },
     {
-      "hash": "sha256-hJcIMMJ\/n1xXU7x42oTb33VTYs5ewigPCh3MBuISiKI=",
+      "hash": "sha256-JKX+uVN1qQOIxXLmVNm9II0Ao+\/sCOQJOmluGjLT+o0=",
       "url": "Data\/pagination-2.json"
     },
     {
@@ -101,11 +101,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-pF5xN\/5G1ynU8SbOPcYp4AByUTSApnb7IOwlTIWu3qk=",
+      "hash": "sha256-FvmmPIuql7J3Ob3O5pzk5ey11kDlTrjfsx92yPQsav4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-JXm1POM+pPk06PTegyF6sK5uugKQ1p3FpN1ZQwofbkA=",
+      "hash": "sha256-BKV7MFrfdDj2oyEmDIMKFVXWJzSjjsbK4OqDLLMK\/RA=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -377,5 +377,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "Xm7uwdi9"
+  "version": "bxSAZQ+F"
 };
