@@ -130,7 +130,7 @@ h1:focus {
         height: 100%;
         width: 100%;
         position: absolute;
-        top: -10.5%;
+        top: -10%;
         left: -1%;
         display: grid;
         place-items: center;

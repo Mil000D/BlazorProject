@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-U8Y1RlvacgugerGl2L89zbJY26D6F1OxgQsB8tO2FWc=",
+      "hash": "sha256-xsk+t1kTt4S\/PfYkXCJy0s\/\/UVWFOR6ZuHjLlHxfu4U=",
       "url": "css\/app.css"
     },
     {
@@ -17,7 +17,7 @@
       "url": "css\/kresy-bliskie-font.ttf"
     },
     {
-      "hash": "sha256-kZ7TYeqEPT\/Rs9xSpLbWBXI5St8Fi5QO\/+JuUKnH9mM=",
+      "hash": "sha256-H2fhTdBXE+mH\/A9qh4Fpz+HOFFYzdW+NLAEMo9JlbFs=",
       "url": "css\/kresy-bliskie-loading.svg"
     },
     {
@@ -53,7 +53,7 @@
       "url": "Images\/kb.png"
     },
     {
-      "hash": "sha256-qI8wTbqXCEpBUHDJbDIw6LWe98KeR76wnbxsPON0hbw=",
+      "hash": "sha256-kq96RTU2+Hxf+hAQYpcGVxlaVFS5BZgjU4\/bxVDNXy0=",
       "url": "index.html"
     },
     {
@@ -377,5 +377,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "BnyvR9bk"
+  "version": "IeJusAh\/"
 };
