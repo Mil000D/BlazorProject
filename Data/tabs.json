@@ -152,20 +152,6 @@
     "Href": "https://www.w3schools.com/html/pic_trulli.jpg"
   },
   {
-    "SubTabs": [
-      {
-        "Id": "f14c0662-1a45-4912-8af9-71583421474c",
-        "Icon": "<rect fill=\"none\" height=\"24\" width=\"24\" x=\"0\" y=\"0\"/><path d=\"M12,2C6.48,2,2,6.48,2,12c0,5.52,4.48,10,10,10s10-4.48,10-10C22,6.48,17.52,2,12,2z M13.88,11.54l-4.96,4.96l-1.41-1.41 l4.96-4.96L10.34,8l5.65,0.01L16,13.66L13.88,11.54z\"/>",
-        "Name": "Testowa podzakładka",
-        "Href": null
-      }
-    ],
-    "Id": "9437eb0f-e3ec-4847-9c57-89e763608739",
-    "Icon": "<path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M4 18.99h11c.67 0 1.27-.32 1.63-.83L21 12l-4.37-6.16C16.27 5.33 15.67 5 15 5H4l5 7-5 6.99z\"/>",
-    "Name": "Testowa zakładka",
-    "Href": null
-  },
-  {
     "SubTabs": null,
     "Id": "2f1c4e4e-023b-4085-ac9c-91985d3987a7",
     "Icon": "<path d=\"M0 0h24v24H0V0z\" fill=\"none\"/><path d=\"M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H8V4h12v12zM10 9h8v2h-8zm0 3h4v2h-4zm0-6h8v2h-8z\"/>",
