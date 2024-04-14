@@ -31,15 +31,6 @@
             }
         }(window.location))
     </script>
-    <script type="module">
-        import { load } from "./dist/sql-httpvfs.js";
-
-        const worker = await load("../database/db.db");
-
-        const result = await worker.db.query(`select * from Persons`);
-
-        DotNet.invokeMethod('JaroslavProject', 'HandleSQLiteData', result);
-    </script>
 </head>
 
 <body>
