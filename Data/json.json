@@ -1,0 +1,10 @@
+[
+  {
+    "Src": "https://www.w3schools.com/html/pic_trulli.jpg",
+    "Href": "/BlazorProject/store/1"
+  },
+  {
+    "Src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cuesta_del_obispo_01.jpg",
+    "Href": "/BlazorProject/store/2"
+  }
+]
