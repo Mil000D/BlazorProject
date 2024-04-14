@@ -177,14 +177,6 @@
       "url": "js\/bootstrap.min.js.map"
     },
     {
-      "hash": "sha256-kpK4nxFqYST1\/8P1SiejOBrvIodRB178qUjutPjSQWg=",
-      "url": "MainLayout.razor.js"
-    },
-    {
-      "hash": "sha256-MJsqHIQJerBBr\/2mzlzpm0y9aMniWOWUjQMqaV54udo=",
-      "url": "Pages\/TabPage.razor.js"
-    },
-    {
       "hash": "sha256-xsk+t1kTt4S\/PfYkXCJy0s\/\/UVWFOR6ZuHjLlHxfu4U=",
       "url": "css\/app.css"
     },
@@ -253,16 +245,20 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-gOLAvj+uIWoxaEFhnQI7aCVPWRQOeRkbnhnniJnbGas=",
-      "url": "js\/database-manager.js"
-    },
-    {
       "hash": "sha256-NH0L4zQCP\/7o+tuKXAn+lowkm6Mibsx1yRRReHqUcDI=",
       "url": "js\/db-tool.js"
     },
     {
+      "hash": "sha256-MJsqHIQJerBBr\/2mzlzpm0y9aMniWOWUjQMqaV54udo=",
+      "url": "js\/page-manager.js"
+    },
+    {
       "hash": "sha256-lRcqN8C597VnumLtN9rtmvluuMO2o3Xg+2xG1\/\/BuPU=",
       "url": "js\/scroll-tools.js"
+    },
+    {
+      "hash": "sha256-gOLAvj+uIWoxaEFhnQI7aCVPWRQOeRkbnhnniJnbGas=",
+      "url": "js\/tab-manager.js"
     },
     {
       "hash": "sha256-Y6Fz6K0quBDEWBXQAxmXwGWThPmYJQla+YMxB3rTwBg=",
@@ -321,11 +317,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-RpoBFSnRe2RHBJt7qBSo6+JkoE5dASf\/ZBaP\/58CN\/A=",
+      "hash": "sha256-VYBEPMRbYtve0Bx21vnXtcGfUzC2AT6o6eiMGR9Orqc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-hDUg01EXBwUFxWUSKViJ2N4WGg1BC8cDAhVhi2h61p0=",
+      "hash": "sha256-FDgQ5a\/lL2CqNJPEdGSjuad8XSodlos7Ka0F9XyH34M=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -597,5 +593,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "GZG4WXXY"
+  "version": "A+dV5xpM"
 };
