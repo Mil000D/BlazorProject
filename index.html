@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>JaroslavProject</title>
-    <base href="/BlazorProject/" />
+    <base href="/" />
     <link href="css/app.css" rel="stylesheet" />
     <link href="manifest.json" rel="manifest" />
     <link href="" rel="stylesheet">
@@ -31,6 +31,15 @@
             }
         }(window.location))
     </script>
+    <script type="module">
+        import { load } from "./dist/sql-httpvfs.js";
+
+        const worker = await load("../database/db.db");
+
+        const result = await worker.db.query(`select * from Persons`);
+
+        DotNet.invokeMethod('JaroslavProject', 'HandleSQLiteData', result);
+    </script>
 </head>
 
 <body>
@@ -49,5 +58,4 @@
     <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
 </body>
-
 </html>
