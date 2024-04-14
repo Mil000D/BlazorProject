@@ -31,6 +31,15 @@
             }
         }(window.location))
     </script>
+    <script type="module">
+        import { load } from "./dist/sql-httpvfs.js";
+
+        const worker = await load("../database/db.db");
+
+        const result = await worker.db.query(`select * from Persons`);
+
+        DotNet.invokeMethod('JaroslavProject', 'HandleSQLiteData', result);
+    </script>
 </head>
 
 <body>
@@ -49,5 +58,4 @@
     <script>navigator.serviceWorker.register('service-worker.js');</script>
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
 </body>
-
 </html>
