@@ -201,7 +201,7 @@
       "url": "css\/mudblazor-extension.css"
     },
     {
-      "hash": "sha256-cKn26e43+MZbAgoKIQPboN1D2n5VszvaooL96xByoWk=",
+      "hash": "sha256-Mcq6ZmMO0HuhpnRZWag9qgjliBpo9zYrO\/1\/DPBio4A=",
       "url": "database\/db.db"
     },
     {
@@ -221,7 +221,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-nCd0Ax2QhrlJtF9TH9cVLhaLQvSsj7iKCd21bXDONEc=",
+      "hash": "sha256-rpzZmu56e5OPa3BwLsSglB7iIefaZy+Z\/WDDXIEPksI=",
       "url": "index.html"
     },
     {
@@ -239,6 +239,10 @@
     {
       "hash": "sha256-lH4LJEeUso015\/jUSmza\/8WOldkthudb1bKNCOG185s=",
       "url": "js\/tab-manager.js"
+    },
+    {
+      "hash": "sha256-z11h+xww4OwxF3jmU+OJaELyLqgylC1wFNXFDpg\/4lQ=",
+      "url": "Logo\/kresy-bliskie-logo-title.svg"
     },
     {
       "hash": "sha256-Y6Fz6K0quBDEWBXQAxmXwGWThPmYJQla+YMxB3rTwBg=",
@@ -297,11 +301,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-wLIdEg6bFAXX28mOrmugZHM96a2zLvJf6Nunykzy4N8=",
+      "hash": "sha256-OEFAYasG7\/txy\/VTtXL87qZDaPmQQwSn+GdLu+N6xHI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-kbna\/URatRzG4Xn6j+zU5sYjMuM1WL0effPKuMD3C7g=",
+      "hash": "sha256-\/tvWAC+ddFYjFaK1HDfUdKHXPss2nZ43XNgsmFrv8Gw=",
       "url": "_framework\/JaroslavProject.dll"
     },
     {
@@ -569,5 +573,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "Z0TXVskw"
+  "version": "SIPi3upu"
 };
